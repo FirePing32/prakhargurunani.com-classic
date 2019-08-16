@@ -7,10 +7,10 @@ This is the source code of my personal website built with - <br>
 * `jQuery`
 * `Bootstrap minified CSS and JavaScript`
 <br>
-<i>Hosted on Firebase at</i> - <br>
-* <i>https://prakhar-gurunani.firebaseapp.com/</i>
-* <i>https://prakhar-gurunani.web.app/</i>
+Hosted on Firebase at - <br>
+* https://prakhar-gurunani.firebaseapp.com/
+* https://prakhar-gurunani.web.app/
 <br>
-<b>Checkout my new website and blog</b> - <br>
+Checkout my new website and blog - <br>
 * GitHub Repository - [https://github.com/prakhargurunani/prakhargurunani.com](https://github.com/prakhargurunani/prakhargurunani.com)
 * Website - [https://www.prakhargurunani.com](https://www.prakhargurunani.com)
