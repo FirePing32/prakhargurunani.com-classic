@@ -1,0 +1,27 @@
+
+{
+  "name": "Prakhar Gurunani",
+  "company": "VellXR Inc.",
+  "location": "India",
+  "email": "prakhargurunani@gmail.com",
+  "hireable": "True",
+  "motto": "Backend Developer | Python",
+  "about": "CEO VellXR Inc.",
+  "quote": "Being anonymous is the biggest identity of a hacker",
+  "interests": "hacking, gaming, movie editing",
+  "developer_type": "frontend, backend",
+  "powers": "HTML, CSS, Bootstrap, Markdown, Python, Django",
+  "unpreferred_environments": "PHP, Node.js",
+  "social_networking_website": "https://vellxr.herokuapp.com/",
+  "github": "https://github.com/prakhargurunani",
+  "stack_overflow": "https://stackoverflow.com/story/prakhargurunani",
+  "twitter": "https://twitter.com/PrakharGurunani",
+  "instagram": "https://www.instagram.com/anonymous_192.168/",
+  "youtube": "https://www.youtube.com/channel/UCGZbQz5JKckv4Tajjg3ou0g",
+  "medium": "https://medium.com/@prakhargurunani",
+  "quora": "https://www.quora.com/profile/Prakhar-Gurunani",
+  "steam": "https://steamcommunity.com/id/prakhargurunani",
+  "codechef": "https://www.codechef.com/users/prakhar_192168",
+  "hackster": "https://www.hackster.io/prakhargurunani/",
+  "hackaday": "https://hackaday.io/prakhargurunani"
+}
